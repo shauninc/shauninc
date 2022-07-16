@@ -2,7 +2,7 @@
 
 I am a 👨‍💻Frontend Developer with web3, blockchain, product management and digital marketing experience
 
-🎙 Podcast host & ✏️ writer at >> [Makers Build](makersbuild.substack.com)
+🎙 Podcast host & ✏️ writer at >> [Makers Build](https://makersbuild.substack.com/)
 
 🎓 Code Bootcamp Alumni >> Technigo 🎉 Frontend + Backend & ConsenSys Ξ Web3 + Blockchain
 
