@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**shauninc/shauninc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 👨‍💻Frontend Developer with web3, blockchain, product management and digital marketing experience
 
-Here are some ideas to get you started:
+🎙 Podcast host & ✏️ writer at >> [Makers Build](makersbuild.substack.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Code Bootcamp Alumni >> Technigo 🎉 Frontend + Backend & ConsenSys Ξ Web3 + Blockchain
+
+🤝 I’m keen to collaborate on open source proejcts and hackathons
+
+📚 Currently Learning Nextjs
+
+🤔 Interested in Social Impact, Fintech and Blockchain focused projects
+
+📫 Get in touch via twitter [@shauninceth](https://twitter.com/shauninceth)
+
+
