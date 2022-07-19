@@ -8,7 +8,7 @@ I am a 👨‍💻Frontend Developer with web3, blockchain, product management a
 
 🤝 I’m keen to collaborate on open source proejcts and hackathons
 
-📚 Currently Learning Nextjs
+📚 Currently Learning TypeScript 
 
 🤔 Interested in Social Impact, Fintech and Blockchain focused projects
 
