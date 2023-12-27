@@ -1,3 +1,3 @@
-# Data Analytics and Software Development 🚀
+# Curious about Data and Code🚀
 
 
